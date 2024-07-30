@@ -25,11 +25,9 @@ Uma loja online destinada à exposição, vendas e comunicação de projetos de 
 🚩 **Principais funcionalidades da aplicação**
 - Usuários não registrados/Visualizadores poderão ver os projetos, seus detalhes e os comentários feitos por usuários registrados(Contratantes e Artistas).
 
-- Contratantes podem ver os detalhes dos projetos e comentários assim como usuários não registrados. Adicionalmente, eles podem escrever comentários sobre os projetos, solicitar comissões e se comunicar com artistas via chat.
+- Contratantes podem ver os detalhes dos projetos e comentários assim como usuários não registrados. Adicionalmente, eles podem escrever comentários sobre os projetos, solicitar comissões(encomendar artes).
 
-- Artistas podem ver os detalhes dos projetos de outros artistas e comentários assim como usuários não registrados. Adicionalmente podem adicionar, remover e editar os projetos de arte pessoal.
-
-
+- Artistas podem ver os detalhes dos projetos de outros artistas e comentários assim como usuários não registrados. Adicionalmente podem adicionar, remover e editar os projetos de arte pessoal. Artistas também podem aceitar ou recusar uma comissão feita por um contratante.
 
 
 
